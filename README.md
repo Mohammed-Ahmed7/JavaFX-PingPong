@@ -8,8 +8,7 @@
 A UML class diagram for the project is available in [`docs/UML class.pdf`](docs/UML%20class.pdf).
 
 ## 📚 About the Project
-This project was created as part of a **school programming assignment** at  
-Grafenbergschule Schorndorf – TG Informationstechnik.
+This project was created as part of a **school programming assignment** at Grafenbergschule Schorndorf – TG Informationstechnik.
 
 It is a **classic Ping Pong game** built with **JavaFX**, featuring:
 - FXML layout for the UI structure (designed with **Scene Builder**)
@@ -62,8 +61,7 @@ Ein UML-Klassendiagramm für das Projekt befindet sich in [`docs/UML class.pdf`]
 
 
 ## 📚 Über das Projekt
-Dieses Projekt wurde im Rahmen eines **schulischen Programmierauftrags** an der  
-Grafenbergschule Schorndorf – TG Informationstechnik erstellt.
+Dieses Projekt wurde im Rahmen eines **schulischen Programmierauftrags** an der Grafenbergschule Schorndorf – TG Informationstechnik erstellt.
 
 Es handelt sich um ein **klassisches Ping Pong Spiel**, entwickelt mit **JavaFX**, mit folgenden Merkmalen:
 - FXML-Layout für die Benutzeroberfläche (erstellt mit **Scene Builder**)
