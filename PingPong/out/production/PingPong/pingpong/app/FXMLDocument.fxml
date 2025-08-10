@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Button?>
+
+<AnchorPane fx:id="rootPane"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="pingpong.app.FXMLDocumentController"
+            prefWidth="800" prefHeight="600"
+            stylesheets="@style.css">
+
+  <children>
+    <!-- Mittellinie -->
+    <Line fx:id="midLine"
+          startX="400" startY="0"
+          endX="400"   endY="600"
+          styleClass="midline" />
+
+    <!-- Ball -->
+    <Circle fx:id="ballView"
+            radius="10"
+            styleClass="ball"/>
+
+    <!-- Paddles -->
+    <Rectangle fx:id="leftPaddle"
+               width="18" height="74"
+               styleClass="paddle"/>
+    <Rectangle fx:id="rightPaddle"
+               width="18" height="74"
+               styleClass="paddle"/>
+
+    <!-- Score Labels -->
+    <Label fx:id="scoreLeftLabel"  text="0"   styleClass="label"/>
+    <Label fx:id="scoreRightLabel" text="0"   styleClass="label"/>
+
+    <!-- Countdown -->
+    <Label fx:id="timeLabel"       text="03:00" styleClass="timer"/>
+
+    <!-- Start/Stop-Button -->
+    <Button fx:id="startButton"
+            text="Start"
+            styleClass="start-button"/>
+  </children>
+</AnchorPane>

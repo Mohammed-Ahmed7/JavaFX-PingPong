@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="PingPong.jnlp">
+  <information>
+    <title>PingPong</title>
+    <vendor>ahmedmohammed</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="PingPong.jar" size="118708" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="pingpong.app.PingPong"  name="PingPong" />
+  <update check="always"/>
+</jnlp>
