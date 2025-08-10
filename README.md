@@ -5,6 +5,8 @@
 🎥 **Demo Video**: [Download / Watch](docs/Demo.mp4)
 *(Short gameplay demonstration)*
 
+A UML class diagram for the project is available in [`docs/UML class.pdf`](docs/UML%20class.pdf).
+
 ## 📚 About the Project
 This project was created as part of a **school programming assignment** at  
 Grafenbergschule Schorndorf – TG Informationstechnik.
@@ -55,6 +57,9 @@ MIT License – free to use for educational and private purposes.
 
 🎥 **Demo-Video**: [Download / Ansehen](docs/Demo.mp4)  
 *(Kurze Gameplay-Demonstration)*
+
+Ein UML-Klassendiagramm für das Projekt befindet sich in [`docs/UML class.pdf`](docs/UML%20class.pdf).
+
 
 ## 📚 Über das Projekt
 Dieses Projekt wurde im Rahmen eines **schulischen Programmierauftrags** an der  
